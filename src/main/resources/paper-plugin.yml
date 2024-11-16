@@ -1,0 +1,5 @@
+name: testPlugin
+version: '1.0-SNAPSHOT'
+main: org.sufunspace.testPlugin.TestPlugin
+api-version: '1.21'
+authors: [ sudden ]
